@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I'm Bartek! 🚀
+
+Space Engineering MSc Student | AGH University of Krakow
+
+I'm an engineering graduate currently pursuing a Master's degree in Space Engineering at AGH University of Krakow.
+
+I'm interested in aerospace technology, mechanical design, experimental testing and materials science. I enjoy working on practical engineering projects, from initial concepts and hardware integration to testing and data analysis.
 
 <!--
 **VernonCruel/VernonCruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
